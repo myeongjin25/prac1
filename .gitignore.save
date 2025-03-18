@@ -1,0 +1,14 @@
+# 시스템 관련 파일 무시
+.cache/
+.config/
+.local/
+.profile
+.bash_history
+.ssh/
+.snap/
+
+# 브라우저 캐시 무시
+snap/firefox/
+
+^T
+
